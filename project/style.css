@@ -1,0 +1,48 @@
+ 
+        *{background-color:white;font-family:serif;box-sizing: border-box;}
+         .o{text-align: center;}
+            .v{display: inline-block;margin-left: 32rem;font-size: 1.3rem;margin-top: 20px;}
+             .d{display: inline-block;color: darkcyan;font-size: 1.3rem;}
+             .s{text-align: center;margin-top: 5px;}
+             .l{text-align: center;margin-top: 2rem;}
+             .p{text-align: center;margin-top: 20px;}
+             .aa{font-size: 1.4rem;margin-left: 65rem;}
+             .bb{margin-left: 64.5rem;}
+             .cc{margin-left: 62rem;}
+             .rr{margin-left: 3rem;}
+             .nn{ border: none;font-size: 1.2rem;margin-left: 2rem;
+                 margin-left: 66rem;background-color: rgb(181, 181, 181);}
+            .e{margin-left: 12rem;}
+            .hh{border: none;font-size: 1.2rem;margin-left: 2rem;background-color: darkcyan;}
+            .dd{font-size: 1.3rem;}
+            .z{margin-left: 4rem;}
+            .ll{background-color: darkcyan;border: none;font-size: 1.2rem;margin-left: 2rem;}
+            .gallery{display: flex;gap: 8rem;margin-left: 12rem;margin-top: 3.5rem;}
+           .x{margin-left: 6rem;}
+           .cc{margin-left: 4rem;}
+           .vv{margin-left: 5rem;}
+           .cv{margin-left: 4rem;}
+           .bc{border: none; background-color:#26a0b6;margin-left: 5rem;font-size: 1.2rem;}
+            .NB{border: none; background-color:#26a0b6;margin-left: 5rem;font-size: 1.2rem;}
+            .yar{border: none; background-color: #26a0b6; margin-left: 4rem;font-size: 1.2rem;}
+           .tex{margin-left: 38rem;}
+           .te{margin-left: 45rem}
+           .sub{margin-left: 45rem;}
+            .img{margin-left: 30px;background-color: #26a0b6;display: flex;border-radius: 5px;
+            padding: 2rem;margin-top: 3rem;}
+            .div{background-color: #26a0b6;margin-left: 20rem;}
+            .menue-bar ul  li  {display: inline;padding: 15px;}
+             .thi{background-color: #26a0b6;font-size: 1.1rem;}
+            .ti{background-color: #26a0b6;margin-top: 10px;font-size: 1.4rem;margin-left: 2rem;}
+            .fin{margin-top: 30px;margin-left: 3.6rem;display: flex;}
+            .hey{margin-left: 4rem;word-spacing: 8px;font-size: 1.2rem;}
+            .this{margin-left: 13.5rem;margin-bottom: 40px;}
+            .final{margin-left: 3rem;}
+            .lorem{margin-left: 3rem;}
+
+           .menue-bar ul li {list-style: none;}
+           .button{background-color: yellow;border: none;
+            font-size: 1.2rem;float: right;margin-right: 2rem;}
+           .menue-bar{margin-left: 19rem;font-size: 17px;}
+           
+           
